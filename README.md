@@ -91,9 +91,13 @@ I would like to thank our instructor, Mr. Wong Ya Ping, for the guidance and sup
 Materials and inspiration were drawn from various Unreal Engine community resources and tutorials, all used under fair use for educational purposes.
 
 [Music Used in the Easter Egg Room][Raffaella Carrà - Pedro (Jaxomy & Agatino Romero Remix)](https://www.youtube.com/watch?v=kKL20WFmVrw)
+
 [Texture/Material Used for Missing Texture][Missing Texture From Source Game (Gmod, Counter Strike,.etc)](https://steamcommunity.com/sharedfiles/filedetails/?id=2946118759)
+
 [Dance Animation Used in the Easter Egg Room][Mixamo Dance Pack by TerribiliStudio](https://terribilisstudio.fr/?section=MD)
+
 [Map Design for Level 6 (de_pasir)][References taken from de_dust](https://en.wikipedia.org/wiki/Dust_II)
+
 [Map Design for Level 7 (My House)[References taken from, my actual house, yup...]
 
 
