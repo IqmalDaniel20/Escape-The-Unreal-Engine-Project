@@ -54,7 +54,8 @@ Follow these steps to install "Escape The UE Project":
 (Screenshots will be added here.)
 
 ## Video Demo
-(Link to video demo will be added here.)
+Watch the gameplay and feature demonstration of "Escape The UE Project" on YouTube:
+[Escape The UE Project - Video Demo](https://youtu.be/yZ2yO2pC1nE)
 
 ## Acknowledgments
 Special thanks to all who contributed ideas and support, especially my classmates and instructors at MMU for their insights and guidance throughout the development process.
