@@ -19,9 +19,25 @@ This game begins in a basic Unreal Engine first-person shooter template, requiri
 
 ## User Manual / Instructions
 ### Installation
-- Download the game files from the GitHub
-- Extract the files to your desired location.
-- Run the executable to start the game.
+Follow these steps to install "Escape The UE Project":
+
+1. **Clone the Repository**:
+   - Clone the project files from GitHub:
+     ```
+     git clone https://github.com/IqmalDaniel20/Escape-The-Unreal-Engine-Project
+     ```
+
+2. **Download Additional Assets**:
+   - Some game assets are too large for GitHub and are hosted separately. Download the additional `.zip` file from Google Drive:
+     [Download Content.zip](https://drive.google.com/drive/folders/11Vlu9LjrDDNrUfhpxuG7v0zr9tv0xKkk?usp=sharing)
+
+3. **Install the Content**:
+   - Place the downloaded `Content.zip` file into the root directory of the cloned project.
+   - Extract the `Content.zip` file directly into this folder, ensuring that all assets populate the `Content` folder of your Unreal project.
+
+4. **Run the Game**:
+   - Open the Unreal Engine project file (`*.uproject`) with Unreal Engine.
+   - Press 'Play' in the Unreal Engine editor to start the game, or package the project for your preferred platform.
 
 ### How to Play
 - **Movement**: WASD keys.
