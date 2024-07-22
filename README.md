@@ -85,7 +85,15 @@ Watch the gameplay and feature demonstration of "Escape The UE Project" on YouTu
 [Escape The UE Project - Video Demo](https://youtu.be/yZ2yO2pC1nE)
 
 ## Acknowledgments
-Special thanks to all who contributed ideas and support, especially my classmates and instructors at MMU for their insights and guidance throughout the development process.
+I would like to thank our instructor, Mr. Wong Ya Ping, for the guidance and support throughout this project. Special thanks to the Unreal Engine Community as well. I also appreciate the feedback and suggestions from our classmates.
 
 ## References
-Materials and inspiration were drawn from various Unreal Engine community resources and tutorials, all used under fair use for educational purposes. Specific sources will be cited as applicable.
+Materials and inspiration were drawn from various Unreal Engine community resources and tutorials, all used under fair use for educational purposes.
+
+[Music Used in the Easter Egg Room][Raffaella Carrà - Pedro (Jaxomy & Agatino Romero Remix)](https://www.youtube.com/watch?v=kKL20WFmVrw)
+[Texture/Material Used for Missing Texture][Missing Texture From Source Game (Gmod, Counter Strike,.etc)](https://steamcommunity.com/sharedfiles/filedetails/?id=2946118759)
+[Dance Animation Used in the Easter Egg Room][Mixamo Dance Pack by TerribiliStudio](https://terribilisstudio.fr/?section=MD)
+[Map Design for Level 6 (de_pasir)][References taken from de_dust](https://en.wikipedia.org/wiki/Dust_II)
+[Map Design for Level 7 (My House)[References taken from, my actual house, yup...]
+
+
