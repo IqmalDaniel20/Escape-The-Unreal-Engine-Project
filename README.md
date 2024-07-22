@@ -34,6 +34,9 @@ Follow these steps to install "Escape The UE Project":
 3. **Install the Content**:
    - Place the downloaded `Content.zip` file into the root directory of the cloned project.
    - Extract the `Content.zip` file directly into this folder, ensuring that all assets populate the `Content` folder of your Unreal project.
+   - See the screenshot below to verify that your `Content` folder is set up correctly:
+
+     ![Content Folder Setup](Screenshots/content_folder.png)
 
 4. **Run the Game**:
    - Open the Unreal Engine project file (`*.uproject`) with Unreal Engine.
