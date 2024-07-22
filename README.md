@@ -54,7 +54,31 @@ Follow these steps to install "Escape The UE Project":
 - Easter eggs that provide humorous and unexpected interactions.
 
 ## Screenshots
-(Screenshots will be added here.)
+
+### Level 1: Start Level
+![Level 1](Screenshots/level_1.png)
+
+### Level 2: Look Up
+![Level 2](Screenshots/level_2.png)
+
+### Level 3: Parkour Launch
+![Level 3](Screenshots/level_3.png)
+
+### Level 4: Invisible Maze
+![Level 4](Screenshots/level_4.png)
+
+### Level 5: DeathFloor
+![Level 5](Screenshots/level_5.png)
+
+### Level 6: de_pasir
+![Level 6](Screenshots/level_6.png)
+
+### Level 7: MyHouse
+![Level 7](Screenshots/level_7.png)
+
+### Level 8: Final Level
+![Level 8](Screenshots/level_8.png)
+
 
 ## Video Demo
 Watch the gameplay and feature demonstration of "Escape The UE Project" on YouTube:
